@@ -1,4 +1,4 @@
 THIS IS A SCHOOL PROJECT TO MAKE A WEBSITE AND I MADE IT A REAL WEBSITE, HAD TO MAKE A GITHUB REPO FOR THAT THOUGH SO THATS THIS
 
 
-Link to actual vistable website: [HERE](logankart12.github.io/scientificeventsproject "COOL LINK")
+Link to actual vistable website: [HERE](https://logankart12.github.io/ScientificEventsProject/ "COOL LINK CLICK HERE :)")
